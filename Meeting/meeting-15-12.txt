@@ -1,0 +1,30 @@
+REVIEW
+
+RFC6598
+
+Fonctionnement de traceroute :
+	Le router décrémente le TTL d'un packet
+	Le TTL existe pour eviter les boucle
+	Traceroute envoie des packet avec un TTL=1,=2,... et reçois une réponse de chaque node
+	
+Coupler le traceroute avec un ping pour vérifier que la destination est accessible
+	
+Pop = point of presence (ou endroit ou les clients arrive)
+
+Zotero -> outil open source pour gerer la bibliographie (mettre les articles et des notes)
+
+Singla Sankit Network topology design (for space)
+	
+	
+TODO
+	Adressage IP de starlink
+	- Se renseigner sur la structures des adresses IP Starlink
+	- Répertorier le "delegated address space" de l'ARIN pour trouver les prefix qui appartiennent à SpaceX
+	
+	Test sur Ripe Atlas
+	- Prendre des université dans différents endroit du monde pour être sur du point de sortie (10 destination, 2 par continent)
+		et prendre une mesure de chaque pour les 10 destination, et identifier le nombre de saut, verifier les addresse privée
+	
+	Articles
+	- Me faire un avis sur l'article, hypothèse manquante ou pertinente, possible experience à réaliser en plus
+	
