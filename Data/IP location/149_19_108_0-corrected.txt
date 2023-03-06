@@ -1,0 +1,5 @@
+149.19.109.79: Chicago, Illinois, US -> Present in path for NL (13851, 1003898), UK (17979, 61366), FR (61241) 	-> maybe in the UK
+149.19.109.77: Chicago, Illinois, US -> 
+149.19.109.127: Chicago, Illinois, US -> Present in path for ES (15623, 61498), FR (54088) 											
+149.19.109.89: Seattle, Washington, US -> Present in AU (1004453, 19983, 24742, 60892)
+149.19.108.72: Seattle, Washington, US -> Present in AU (1004453, 19983, 24742, 60892), US (60929)

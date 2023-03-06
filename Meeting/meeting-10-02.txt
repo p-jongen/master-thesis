@@ -1,0 +1,13 @@
+Modifier le flow_id du traceroute (icmp entête plus courte)
+	jouer sur le flow_id pour observer des chemin
+	
+Vérifier les RRT :
+	temps minimum pour aller dans l'espace (distance, vitesse,....)
+	
+	Technique de résolution pour vérifier si 2 addresses sont sur le même routeur : ip alias resolution
+	Midar (rocket fuel) : technique -> construire topologie sur base de traceroute
+	IP id : avant les routeur incrémentait l'id et donc des id toujours croissant sont possiblement le même routeur
+	
+	Danilo Cicalese & Dario Rossi (telecom paristech) -> triangulation icmp/traceroute
+		-> se renseigner sur la triangulation
+	

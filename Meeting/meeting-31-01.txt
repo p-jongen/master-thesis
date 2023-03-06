@@ -1,0 +1,18 @@
+Table IP :
+	Rennomer Range utility par "Caracrerization of IP range"
+
+MLab 
+	Récuperer toutes les IPs des sonde 
+	Query MLab database pour chaque IP et récuperer le raw
+	
+	
+Réponse traceroute : encapsule l'entièreté du packet reçus 
+	Lire le papier : TNT, Watch me Explode: A Light in the Dark for Revealing MPLS Tunnels
+		q_ttl
+		icmp_q_... (replies)
+		
+		
+		spacex-svc081426-ic371294.ip.twelve99-cust.net
+	Checker la doc Ripe Atlat pour les champs MPLS & label
+	
+	Lire paper : Reverse Traceroute (Ethan Katz, Kevin Verumeulen) 
