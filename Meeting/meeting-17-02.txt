@@ -1,9 +1,0 @@
-Possibilité :
-	Rate limiting
-	
-	Laurent van bever (ETH Zurich) paper : 
-		WAN Obfuscation -> check cited paper
-		
-To do
-	Reverse traceroute
-	Calculate median RTT
